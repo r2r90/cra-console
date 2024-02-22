@@ -8,6 +8,8 @@ export const User = () => {
       <p>Dev branch commit 1</p>
       <p>Popup branch commit 1</p>
       <p>Popup branch commit 1</p>
+      <p>Popup branch commit 1</p>
+      <p>Popup branch commit 1</p>
     </div>
   );
 };
