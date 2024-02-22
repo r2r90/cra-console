@@ -9,6 +9,9 @@ export const User = () => {
       <p>Dev branch commit 1</p>
       <p>Dev branch commit 1</p>
       <p>Develop/login branch commit 1</p>
+      <p>Develop/login branch commit 1</p>
+      <p>Develop/login branch commit 1</p>
+      <p>Develop/login branch commit 1</p>
     </div>
   );
 };
